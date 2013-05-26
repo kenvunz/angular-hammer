@@ -8,7 +8,6 @@
     "components"
   ],
   "dependencies": {
-    //"angular": "~1.0.6",
     "hammerjs": "~1.0.5"
   }
 }
